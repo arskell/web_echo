@@ -1,6 +1,6 @@
 # web_echo
 
-first argument uses for port
+first argument uses for setup port
 
 usage example:
 
