@@ -1,2 +1,7 @@
 # web_echo
-simple echo software for web-requests (using Boost.Asio)
+
+first argument uses for port
+
+usage example:
+
+```echo.exe 17888``` - open echo-server on 17888-th port
